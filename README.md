@@ -1,3 +1,3 @@
 # Demo Git
 
-This is practice purpose only.....
+This is practice purpose only!
