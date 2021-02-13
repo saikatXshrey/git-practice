@@ -1,3 +1,0 @@
-#Demo Git
-
-This is only for practice purpose....
